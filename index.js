@@ -1,10 +1,10 @@
-function textCheck(text){
-    if(text === 'Shylesh'){
-        return 'Great Job'
+function textcheck(text){
+    if(text === "Shylesh"){
+        return "Great Job"
     }
     else{
-        return 'OOPS!'
+        return "OOPS!"
     }
 }
 
-module.exports = textCheck
+module.exports = textcheck

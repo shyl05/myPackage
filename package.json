@@ -1,5 +1,5 @@
 {
-  "name": "my-package",
+  "name": "is-it-shylesh",
   "version": "1.0.0",
   "description": "my new package",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "keywords": [
     "mypack"
   ],
-  "author": "Shylesh",
+  "author": "jakeblu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shyl05/myPackage/issues"
