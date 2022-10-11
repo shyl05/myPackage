@@ -1,0 +1,22 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "my new package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyl05/myPackage.git"
+  },
+  "keywords": [
+    "mypack"
+  ],
+  "author": "Shylesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyl05/myPackage/issues"
+  },
+  "homepage": "https://github.com/shyl05/myPackage#readme"
+}
